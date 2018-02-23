@@ -7,7 +7,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "Strings.h"
+#include "COFFStrings.h"
 #include <mutex>
 
 #if defined(_MSC_VER)

@@ -20,7 +20,7 @@
 #include "InputFiles.h"
 #include "LinkerScript.h"
 #include "OutputSections.h"
-#include "Strings.h"
+#include "ELFStrings.h"
 #include "SymbolTable.h"
 #include "Symbols.h"
 #include "Target.h"

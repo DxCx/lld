@@ -11,7 +11,7 @@
 #define LLD_ELF_LINKER_SCRIPT_H
 
 #include "Config.h"
-#include "Strings.h"
+#include "ELFStrings.h"
 #include "Writer.h"
 #include "lld/Common/LLVM.h"
 #include "llvm/ADT/ArrayRef.h"

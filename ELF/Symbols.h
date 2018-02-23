@@ -16,7 +16,7 @@
 #define LLD_ELF_SYMBOLS_H
 
 #include "InputSection.h"
-#include "Strings.h"
+#include "ELFStrings.h"
 #include "lld/Common/LLVM.h"
 #include "llvm/Object/Archive.h"
 #include "llvm/Object/ELF.h"

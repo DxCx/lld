@@ -7,7 +7,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "Strings.h"
+#include "ELFStrings.h"
 #include "Config.h"
 #include "lld/Common/ErrorHandler.h"
 #include "llvm/ADT/Twine.h"
