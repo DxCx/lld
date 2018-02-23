@@ -15,7 +15,7 @@
 #include "MapFile.h"
 #include "OutputSections.h"
 #include "Relocations.h"
-#include "Strings.h"
+#include "ELFStrings.h"
 #include "SymbolTable.h"
 #include "Symbols.h"
 #include "SyntheticSections.h"

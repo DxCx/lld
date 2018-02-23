@@ -32,7 +32,7 @@
 #include "LinkerScript.h"
 #include "OutputSections.h"
 #include "ScriptParser.h"
-#include "Strings.h"
+#include "ELFStrings.h"
 #include "SymbolTable.h"
 #include "Symbols.h"
 #include "SyntheticSections.h"

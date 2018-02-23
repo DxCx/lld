@@ -15,7 +15,7 @@
 #include "Config.h"
 #include "InputSection.h"
 #include "OutputSections.h"
-#include "Strings.h"
+#include "ELFStrings.h"
 #include "SymbolTable.h"
 #include "Symbols.h"
 #include "SyntheticSections.h"

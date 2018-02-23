@@ -34,7 +34,7 @@
 #include "LinkerScript.h"
 #include "OutputSections.h"
 #include "Relocations.h"
-#include "Strings.h"
+#include "ELFStrings.h"
 #include "Symbols.h"
 #include "SyntheticSections.h"
 #include "Target.h"

@@ -10,7 +10,7 @@
 #include "OutputSections.h"
 #include "Config.h"
 #include "LinkerScript.h"
-#include "Strings.h"
+#include "ELFStrings.h"
 #include "SymbolTable.h"
 #include "SyntheticSections.h"
 #include "Target.h"

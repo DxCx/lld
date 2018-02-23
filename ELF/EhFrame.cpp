@@ -20,7 +20,7 @@
 #include "Config.h"
 #include "InputSection.h"
 #include "Relocations.h"
-#include "Strings.h"
+#include "ELFStrings.h"
 
 #include "lld/Common/ErrorHandler.h"
 #include "llvm/BinaryFormat/Dwarf.h"

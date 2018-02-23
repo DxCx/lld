@@ -9,7 +9,7 @@
 
 #include "Symbols.h"
 #include "InputFiles.h"
-#include "Strings.h"
+#include "COFFStrings.h"
 #include "lld/Common/ErrorHandler.h"
 #include "lld/Common/Memory.h"
 #include "llvm/ADT/STLExtras.h"
